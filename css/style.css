@@ -1,0 +1,11 @@
+.menu {
+    display: inline-block;
+    @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+
+}
+
+.foto{
+    display: inline-block;
+}
