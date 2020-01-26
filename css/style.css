@@ -1,12 +1,33 @@
-.menu {
-    display: inline-block;
-    @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
-    font-family: 'Playfair Display', serif;
-    text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300&display=swap');
 
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  color: #626262;
+  font-weight: 400;
 }
 
-.foto{
-    display: inline-block;
-    color: aqua;
+a {
+  text-decoration: none;
+}
+
+.ubu {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  color: #b4ad9e;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-weight: 400;
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+}
+
+button {
+  font-size: 20px;
+  color: #626262;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
 }
