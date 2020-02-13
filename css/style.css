@@ -33,3 +33,8 @@ button {
   font-family: 'Playfair Display', serif;
   font-weight: 400;
 }
+
+.link:hover, 
+.link:focus {
+  color: #03a9f4;
+}
